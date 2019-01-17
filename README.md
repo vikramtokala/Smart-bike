@@ -9,4 +9,4 @@ The project presents the usage of sensors like heartbeat sensor, temperature and
 
 The information calculated is displayed on the LCD display which is provided with buttons which enable the user to alter the information.
 
-![dsc_0395_nef_p1o6foc9fr](https://user-images.githubusercontent.com/40614013/51346194-ef131d00-1a94-11e9-88cf-3579b4c756e8.jpg)](https://youtu.be/Yth-xnE1LeE)
+![dsc_0395_nef_p1o6foc9fr](https://user-images.githubusercontent.com/40614013/51346194-ef131d00-1a94-11e9-88cf-3579b4c756e8.jpg)(https://youtu.be/Yth-xnE1LeE)
