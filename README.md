@@ -9,4 +9,4 @@ The project presents the usage of sensors like heartbeat sensor, temperature and
 
 The information calculated is displayed on the LCD display which is provided with buttons which enable the user to alter the information.
 
-https://youtu.be/Yth-xnE1LeE
+<iframe width="615" height="353" src="https://www.youtube.com/embed/Yth-xnE1LeE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" ></iframe>
